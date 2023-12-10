@@ -42,7 +42,7 @@ module.exports = () => {
   
             // Only cache 2 images.
             expiration: {
-              maxEntries: 2,
+              maxEntries: 6,
             },
           },
         }],
@@ -57,8 +57,8 @@ module.exports = () => {
         publicPath: './',
         icons: [
           {
-            src: path.resolve('./src/images/logo.png'),
-            sizes: [96, 128, 512],
+            src: path.resolve('src/images/logo.png'),
+            sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join('assets', 'icons'),
           },
         ],
