@@ -10,6 +10,7 @@
   - [Contributing](#contributing)
   - [License](#license)
   - [Questions](#questions)
+  - [Project Link](#project-link)
 
   ## Description
 
@@ -17,11 +18,13 @@
 
   ## Installation
 
-  To install the application, clone the github repo and run npm install in the terminal.
+  To install the app on your desktop, visit the deployed page through the project link and click the install button.
+  To install the source code and run the app locally, clone the github repo and run npm install in the terminal.
 
   ## Usage
-  
-  Start the application with npm start:dev and visit localHost port 3000 in the browser. Install the app to your desktop by clicking the install button.
+
+  Visit the deployed page through the project link to try out the editor. Install to your desktop by clicking the install button.
+  When running the app locally, start the application with npm start and visit localHost port 3000 in the browser. Install the app to your desktop by clicking the install button.
   
   ## Contributing
   
@@ -35,3 +38,6 @@
   Contact me here with any questions
   - [Github](https://github.com/hewman82)
   - Email: hewman82@gmail.com
+
+  ## Project Link
+  [Text Editor](https://text-editor-ahf8.onrender.com/)
