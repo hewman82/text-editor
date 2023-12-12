@@ -8,28 +8,24 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
 
   ## Description
 
-  A progressive web application using an IndexedDB database as well as local storage in order to function offline
+  A progressive web application for taking notes that uses an IndexedDB database as well as local storage in order to function offline.
 
   ## Installation
 
-  To install the application, visit the project link and click the install button
+  To install the application, clone the github repo and run npm install in the terminal.
 
   ## Usage
   
-  
+  Start the application with npm start:dev and visit localHost port 3000 in the browser. Install the app to your desktop by clicking the install button.
   
   ## Contributing
   
   If you have any suggestions on how to improve the application, you can open an issue on the github page with the tag "suggestion" or fork the project, create a feature branch, commit your changes, push to your branch, and open a pull request.
-  
-  ## Tests
-  
   
   ## License 
   MIT License
