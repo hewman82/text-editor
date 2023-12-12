@@ -22,8 +22,9 @@
   To install the source code and run the app locally, clone the github repo and run npm install in the terminal.
 
   ## Usage
-  
-  Start the application with npm start and visit localHost port 3000 in the browser. Install the app to your desktop by clicking the install button.
+
+  Visit the deployed page through the project link to try out the editor. Install to your desktop by clicking the install button.
+  When running the app locally, start the application with npm start and visit localHost port 3000 in the browser. Install the app to your desktop by clicking the install button.
   
   ## Contributing
   
