@@ -16,6 +16,8 @@
 
   A progressive web application for taking notes that uses an IndexedDB database as well as local storage in order to function offline.
 
+  ![Screenshot](https://github.com/hewman82/text-editor/blob/main/Screenshots/Screenshot%20(56).png)
+
   ## Installation
 
   To install the app on your desktop, visit the deployed page through the project link and click the install button.
